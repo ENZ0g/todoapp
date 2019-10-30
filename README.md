@@ -1,3 +1,3 @@
-Simple task manager. Try it https://enz0g.github.io/todoapp/
+Simple task manager. [Try it](https://enz0g.github.io/todoapp/)
 
-Frontend for ToDo_heroku_server
+This is frontend built with VUE.js for [ToDo_heroku_server](https://github.com/ENZ0g/ToDo_heroku_server)
